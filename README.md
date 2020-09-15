@@ -1,4 +1,5 @@
 # Oberlab Lasercutter-Nutzung
+![lb](https://github.com/frankyhub/png/blob/master/lightburn.png)
 
 Unterlagen für die Einweisung
 
