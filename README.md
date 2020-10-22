@@ -14,7 +14,8 @@ Teil 4: Lasercutter Checkliste
 Teil 5: Materialparameter
 
 
-## Materialparameter:
+
+### Materialparameter:
 
 | Material   | Stärke mm | Modus      | Passes |Speed mm/s| Pmax% |
 |------------|-----------|------------|--------|----------|-------|
