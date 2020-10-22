@@ -28,7 +28,6 @@ this serial port are different depending on which Arduino you are using.
 
 If you would like to read information from the Maestro, like in the Input
 
-## Material-Parameter
 
 |   Material  | Stärke mm |   Modus   |Passes |Speed mm/s |Pmax %|
 |-------------------------|-----------|-------|-----------|------|
