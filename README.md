@@ -16,7 +16,7 @@ Teil 5: Materialparameter
 
 this serial port are different depending on which Arduino you are using.
 
-| Microcontroller Board | Hardware serial? | MCU RX pin | MCU TX pin |
+| Material              | Stärke           | Modus      | Passes     |
 |-----------------------|------------------|------------|------------|
 | A-Star 32U4           |        Yes       |      0     |      1     |
 | Arduino Leonardo      |        Yes       |      0     |      1     |
