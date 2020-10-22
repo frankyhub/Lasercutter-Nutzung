@@ -25,7 +25,15 @@ Teil 5: Materialparameter
 | Filz       |    3      | Gravur     |    1   |   100    |   0,1 |
 | Holz       |    4      | Gravur     |    1   |   100    |  10   |
 | MDF        |    2      | Schneiden  |    1   |    15    | 100   |
-|            |           |            |        |          |       |
 
 
+Für die Gravur sind in LightBurn unter „Bearbeiten, Gerteeinstellungen“ 
+
+| Geschwindigkeit | Linienversch | Anfangsoffset| 
+|-----------------|--------------|--------------|
+| 100,0           |    0,70      | 0,00         |
+| 100,0           |    0,70      | 0,00         |
+
+
+Stand 10-2020
 
