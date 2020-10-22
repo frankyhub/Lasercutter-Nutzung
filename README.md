@@ -16,6 +16,7 @@ Teil 5: Materialparameter
 
 
 ### Materialparameter:
+Stand 10-2020
 
 | Material   | Stärke mm | Modus      | Passes |Speed mm/s| Pmax% |
 |------------|-----------|------------|--------|----------|-------|
@@ -27,7 +28,7 @@ Teil 5: Materialparameter
 | MDF        |    2      | Schneiden  |    1   |    15    | 100   |
 
 
-Für die Gravur sind in LightBurn unter „Bearbeiten, Gerteeinstellungen“ 
+Für die Gravur sind in LightBurn unter „Bearbeiten, Gerteeinstellungen“ zwei Grundeinstellungen hinzuzufügen:
 
 | Geschwindigkeit | Linienversch | Anfangsoffset| 
 |-----------------|--------------|--------------|
