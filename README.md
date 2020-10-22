@@ -14,11 +14,11 @@ Teil 4: Lasercutter Checkliste
 Teil 5: Materialparameter
 
 
-this serial port are different depending on which Arduino you are using.
+Materialparameter:
 
-| Material              | Stärke           | Modus      | Passes     |
-|-----------------------|------------------|------------|------------|
-| A-Star 32U4           |        Yes       |      0     |      1     |
+| Material              | Stärke           | Modus      | Passes     | Speed    | Pmax%     |
+|-----------------------|------------------|------------|------------|----------|-----------|
+| A-Star 32U4           |        Yes       |      0     |      1     |      1   |   1       |
 | Arduino Leonardo      |        Yes       |      0     |      1     |
 | Arduino Micro         |        Yes       |      0     |      1     |
 | Arduino Mega 2560     |        Yes       |     19     |     18     |
