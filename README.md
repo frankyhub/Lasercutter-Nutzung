@@ -13,9 +13,10 @@ Teil 4: Lasercutter Checkliste
 
 Teil 5: Materialparameter
 
-
+|-----------------------------------------------------------------|
 
 ### Materialparameter:
+
 Stand 10-2020
 
 | Material   | Stärke mm | Modus      | Passes |Speed mm/s| Pmax% |
@@ -35,6 +36,4 @@ Für die Gravur sind in LightBurn unter „Bearbeiten, Gerteeinstellungen“ zwe
 | 100,0           |    0,70      | 0,00         |
 | 100,0           |    0,70      | 0,00         |
 
-
-Stand 10-2020
 
